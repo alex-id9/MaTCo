@@ -4,11 +4,13 @@ Throughout this module we cover materials from the linked [notes](https://drive.
 
 ## Kickoff (16.09)
 
+> 16 september 2026 (1/2) with MaTCo Board 
+
 During this session we covered the [kickoff presentation](https://github.com/alex-id9/MaTCo/blob/main/%5BM1%5D%20Calculus%20%26%20Analysis/W0_Kickoff.pdf) and briefly passed through the [solutions](https://github.com/alex-id9/MaTCo/blob/main/%5BM1%5D%20Calculus%20%26%20Analysis/W0_Kickoff_SOL.pdf).
 
-## (CH.1) Rolle's Theorem as a Design Tool (16.09 / 23.09)
+## (CH.2) Rolle's Theorem as a Design Tool (16.09 / 23.09)
 
-> 16 september 2026
+> 16 september 2026 (2/2) with Vahid
 
 The first session further continued with going through Rolle's Theorem and other adjacent results (see [here](https://github.com/alex-id9/MaTCo/blob/main/%5BM1%5D%20Calculus%20%26%20Analysis/W1_Rolle'sTheorem.pdf)). We covered the following material:
 
@@ -36,7 +38,7 @@ Throughout assume $$f, g \in C([a, b])$$ are differentiable on $(a, b)$, where $
 
 ***
 
-> 23 september 2026
+> 23 september 2026 with Vahid
 
 We continued working on the slides from week 1 (see [here](https://github.com/alex-id9/MaTCo/blob/main/%5BM1%5D%20Calculus%20%26%20Analysis/W1_Rolle'sTheorem.pdf)) with the remaining material:
 
@@ -50,9 +52,9 @@ We continued working on the slides from week 1 (see [here](https://github.com/al
 - Putnam 2015 B1
 ***
 
-## (CH.2) Differential Equations & Taylor Estimates (23.09)
+## (CH.3) Differential Equations & Taylor Estimates (23.09)
 
-> 23 september 2026
+> 23 september 2026 with Vahid
 
 We worked through the material from the session slides (see [here](https://github.com/alex-id9/MaTCo/blob/main/%5BM1%5D%20Calculus%20%26%20Analysis/W2_DifferentialEq.pdf)). We covered the following material:
 
@@ -93,4 +95,44 @@ Throughout assume all functions are sufficiently smooth (e.g. $u \in C^1([a,b])$
 - Putnam 2009 A2
 ***
 
-## (CH.3) Sequences (30 september 2026)
+## (CH.4) Sequences, Iteration, & Rates (30.09/01.10)
+
+> 30 september 2026 with Koondi
+
+1. **Theorems**
+
+[TODO]
+
+2. **[TODO]**
+
+[TODO]
+
+3. **Related Problems**
+
+4. **Homework Exercises**
+- IMC 2018, Day 2, Problem 7
+- IMC 1998, Day 1, Problem 3
+- Putnam 2020, Problem A3
+- Putnam 2012, Problem B4
+
+> 1 october 2026 with Alex
+
+During the session we solved 
+
+## (CH.5) Series, Products & Generating Functions (7 october 2026)
+
+1. **Theorems**
+
+[TODO]
+
+2. **[TODO]**
+
+[TODO]
+
+3. **Related Problems**
+- IMC 2015, Day 1, Problem 3 (№73)
+- Putnam 2016, Problem B6 (№74)
+- IMC 1997, Day 2, Problem 3 (№75)
+- IMC 2019, Day 1, Problem 1 (№83)
+
+## (CH.6) Integrals: Symmetry, Parameters, & Weights
